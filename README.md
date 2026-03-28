@@ -99,10 +99,3 @@ public UpdateTimeTD()
 ## License
 
 Open-source and free to use. Modification and redistribution are allowed.
-
----
-
-## Credits
-
-* SA-MP Team
-* samp-plugin-sdk by Zeex
